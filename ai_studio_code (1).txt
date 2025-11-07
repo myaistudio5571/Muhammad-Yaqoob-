@@ -1,0 +1,4 @@
+{
+  "name": "MYAiStudio – Your AI Voice Creator",
+  "description": "An application that turns any written text into human-like speech using Google's Gemini Text-to-Speech API. Users can input text, select different voices and emotions, and generate, play, and download the audio."
+}
